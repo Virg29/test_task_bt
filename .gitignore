@@ -1,0 +1,4 @@
+env/
+*.sqlite3
+m3_project/app/__pycache__/*
+*.pyc
